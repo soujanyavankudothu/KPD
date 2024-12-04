@@ -1,0 +1,152 @@
+[
+    {
+        "Donor": [
+            "A"
+        ],
+        "Recipient": "A",
+        "Edge": [
+            10,
+            15
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "B"
+        ],
+        "Recipient": "B",
+        "Edge": [
+            8,
+            4
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "A"
+        ],
+        "Recipient": "A",
+        "Edge": [
+            1,
+            5
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "A"
+        ],
+        "Recipient": "A",
+        "Edge": [
+            22,
+            24
+        ]
+    },
+    {
+        "Donor": [
+            "B"
+        ],
+        "Recipient": "B",
+        "Edge": [
+            5,
+            1
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "B"
+        ],
+        "Recipient": "B",
+        "Edge": [
+            15,
+            10
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "A"
+        ],
+        "Recipient": "A",
+        "Edge": [
+            6,
+            13
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "B"
+        ],
+        "Recipient": "B",
+        "Edge": [
+            14,
+            9
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "B"
+        ],
+        "Recipient": "B",
+        "Edge": [
+            13,
+            6
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "A"
+        ],
+        "Recipient": "A",
+        "Edge": [
+            4,
+            8
+        ]
+    },
+    {
+        "Donor": [
+            "A"
+        ],
+        "Recipient": "A",
+        "Edge": [
+            9,
+            14
+        ]
+    },
+    {
+        "Donor": [
+            "A"
+        ],
+        "Recipient": "A",
+        "Edge": [
+            11,
+            21
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "B"
+        ],
+        "Recipient": "B",
+        "Edge": [
+            24,
+            22
+        ]
+    },
+    {
+        "Donor": [
+            "AB",
+            "B"
+        ],
+        "Recipient": "B",
+        "Edge": [
+            21,
+            11
+        ]
+    }
+]
